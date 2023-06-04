@@ -63,7 +63,6 @@ function init() {
 
 <template>
     <canvas width="200" height="200">
-        
     </canvas>
 </template>
 
